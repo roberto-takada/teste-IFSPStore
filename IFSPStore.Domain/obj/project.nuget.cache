@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "37iFJ0Ro0ntsA+lQA3z7ODTCt8TYDIQsOyg48Q0rV6y6u90Aa8siLbXQCuXsZWqKJ1Ql748yqwGm85lnXUqTgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\Downloads\\IFSPStore-05-nov\\IFSPStore-05-nov\\IFSPStore\\IFSPStore.Domain\\IFSPStore.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
