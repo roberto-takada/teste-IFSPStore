@@ -1,0 +1,17 @@
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\obj\Debug\net8.0\IFSPStore.Services.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\obj\Debug\net8.0\IFSPStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\obj\Debug\net8.0\IFSPStore.Services.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\obj\Debug\net8.0\IFSPStore.Services.AssemblyInfo.cs
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\obj\Debug\net8.0\IFSPStore.Services.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\bin\Debug\net8.0\IFSPStore.Services.deps.json
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\bin\Debug\net8.0\IFSPStore.Services.dll
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\bin\Debug\net8.0\IFSPStore.Services.pdb
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\bin\Debug\net8.0\IFSPStore.Domain.dll
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\bin\Debug\net8.0\IFSPStore.Repository.dll
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\bin\Debug\net8.0\IFSPStore.Domain.pdb
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\bin\Debug\net8.0\IFSPStore.Repository.pdb
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\obj\Debug\net8.0\IFSPStore.Services.csproj.CopyComplete
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\obj\Debug\net8.0\IFSPStore.Services.dll
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\obj\Debug\net8.0\refint\IFSPStore.Services.dll
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\obj\Debug\net8.0\IFSPStore.Services.pdb
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Services\obj\Debug\net8.0\ref\IFSPStore.Services.dll
