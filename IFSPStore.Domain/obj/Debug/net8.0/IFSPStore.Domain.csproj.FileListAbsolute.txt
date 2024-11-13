@@ -1,0 +1,12 @@
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Domain\bin\Debug\net8.0\IFSPStore.Domain.deps.json
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Domain\bin\Debug\net8.0\IFSPStore.Domain.dll
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Domain\bin\Debug\net8.0\IFSPStore.Domain.pdb
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.AssemblyInfo.cs
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.dll
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\refint\IFSPStore.Domain.dll
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\IFSPStore.Domain.pdb
+C:\Users\usuario\Downloads\IFSPStore-05-nov\IFSPStore-05-nov\IFSPStore\IFSPStore.Domain\obj\Debug\net8.0\ref\IFSPStore.Domain.dll
